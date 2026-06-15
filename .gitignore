@@ -1,0 +1,20 @@
+# Generated repository view ignores.
+__pycache__/
+**/__pycache__/
+*.pyc
+**/*.pyc
+.pytest_cache/
+**/.pytest_cache/
+
+/.task_bridge_state/
+/private_evidence/
+/private_research/
+/private_runs/
+/prv_docs/
+/secret_docs/
+/secret_evidence/
+/secret_research/
+/secret_runs/
+/logs/
+/runs/
+/snapshots/
